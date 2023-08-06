@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cindurasri
-- 👀 I’m interested in python programming
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in exploring
+- 🌱 I’m currently learning data analytics and machine learning
 - 📫 How to reach me cindurasri.vedha@gmail.com
 
 <!---
